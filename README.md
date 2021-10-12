@@ -1,6 +1,11 @@
 # my_app
 
 A new Flutter project.
+This is my first flutter project since 2019 when I first started learning flutter. I didn't feel well writing an app in flutter and encountered a variety of problems building an app using it. I ended up switching to Native Dev. using both Swift & Kotlin. 
+
+Yet here again I'm returning because of 2 reasons: 
+ 1. is that I missed a great amount of money rejecting clients who wanted to build their apps using it.
+ 2. IEEE AAST Alex SB has asked me to teach their volunteers flutter development. So I had to practice....
 
 ## Getting Started
 
