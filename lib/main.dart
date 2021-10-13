@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:get/route_manager.dart';
 import 'package:my_app/Pages/home_page.dart';
-
 void main() => runApp(const MyApp());
 
 class MyApp extends StatelessWidget {
@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    return  const MaterialApp(
+    return  const GetMaterialApp(
       home: HomePage()
     );
   }
